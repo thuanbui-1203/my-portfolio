@@ -9,6 +9,6 @@ export default defineConfig({
   vite: {
       plugins: [tailwindcss()],
   },
-
+  site: 'http://thuanbui.tech',
   integrations: [react()]
 });
