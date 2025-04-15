@@ -1,17 +1,17 @@
 export const personalInfo = {
-  name: "Rishikesh S",
-  location: "Coimbatore, India",
-  email: "rkesh2003@gmail.com",
-  github: "https://github.com/rishikesh2003",
-  linkedin: "https://www.linkedin.com/in/rishikeshs/",
+  name: "Thuận Bùi",
+  location: "Ho Chi Minh City, Vietnam",
+  email: "thuanbui.dev@gmail.com",
+  github: "https://github.com/thuanbui-1203",
+  linkedin: "https://www.linkedin.com/in/thuaniub1203/",
 };
 
 export const workExperience = [
   {
-    company: "Chatbyte GmbH",
+    company: "DigiUni Vietnam",
     location: "Remote",
     position: "Software Engineer",
-    period: "Mar 2024 - Present",
+    period: "Mar 2024 - Jan 2025",
     achievements: [
       "Designed and implemented business logic for AWS Lambdas using the Serverless Framework, forming the backbone of the application's functionality and ensuring seamless backend operations.",
       "Built a comprehensive admin panel for managing content, user data, and analytics.",
